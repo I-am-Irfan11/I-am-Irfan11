@@ -3,7 +3,6 @@
 
 <ul>
     <li>🎓 Second-year B.Tech CSE student at Hindustan Institute of Technology and Science (HITS), Chennai</li>
-    <li>🚀 Leading a 10-person team building the <strong>HITS Attendance Alert System</strong> (FastAPI + Next.js)</li>
     <li>🤖 Building <strong>JARVIS</strong> — a fully local, private AI desktop assistant (Electron + Python + Ollama)</li>
     <li>🎯 Long-term goals: open source (aiming for GSoC 2027), software dev, and startup/product work</li>
     <li>📫 Reach me on GitHub: <strong>I-am-Irfan11</strong></li>
@@ -54,10 +53,20 @@
 
 <div style="position: relative; left: 50%;">
     <h3>📊 GitHub Stats:</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=I-am-Irfan11&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"><br />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=I-am-Irfan11&theme=dark&hide_border=false" alt="Streak Stats"><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Irfan11&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs">
+    <img src="https://github-stats-extended.vercel.app/api?username=I-am-Irfan11&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"><br />
+    <img src="https://streak-stats.demolab.com/?user=I-am-Irfan11&theme=dark&hide_border=false" alt="Streak Stats"><br />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=I-am-Irfan11&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs">
 </div>
+
+<h3 align="center">📈 Activity Graph</h3>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=I-am-Irfan11&theme=react-dark&hide_border=true&area=true" alt="Irfan's Activity Graph" width="100%">
+</p>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/I-am-Irfan11/I-am-Irfan11/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%">
+</p>
 
 <h3>✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
