@@ -3,7 +3,6 @@
 
 <ul>
     <li>🎓 Second-year B.Tech CSE student at Hindustan Institute of Technology and Science (HITS), Chennai</li>
-    <li>🤖 Building <strong>JARVIS</strong> — a fully local, private AI desktop assistant (Electron + Python + Ollama)</li>
     <li>🎯 Long-term goals: open source (aiming for GSoC 2027), software dev, and startup/product work</li>
     <li>📫 Reach me on GitHub: <strong>I-am-Irfan11</strong></li>
 </ul>
